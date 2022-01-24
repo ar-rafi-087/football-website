@@ -35,7 +35,7 @@ body{
     font-weight: 700;
     color: white;
     font-size: 15px;
-    letter-spacing: 5px;
+    letter-spacing: 3px;
     background-color: #E02C6D;
     padding: 10px 20px;
 }
@@ -87,9 +87,23 @@ body{
     background-color: white;
 }
 .extra-text{
-    padding-top: 40px;
+    padding-top: 20px;
     padding-left: 156px;
     padding-right: 66px;
+}
+
+.btn{
+    margin-top: 30px;
+}
+
+.btn a{
+    text-decoration: none;
+    font-weight: 700;
+    color: white;
+    font-size: 15px;
+    letter-spacing: 3px;
+    background-color: #E02C6D;
+    padding: 10px 20px;
 }
 .banner img{
     width: 500px;
@@ -99,5 +113,35 @@ body{
 
 .video{
     padding-right: 156px;
+    padding-bottom: 158px;
 }
 
+/*--------------
+  FOOTER SECTION
+  -------------- */
+
+footer{
+    background-color: white;
+}
+
+.logo {
+    margin-left: 400px;
+}
+.logo img {
+    width: 500px;
+    height: 120px;
+}
+
+.social{
+    margin-left: 632PX;
+}
+.social img{
+    margin-left: 14PX;
+    width: 32px;
+    height: 32px;
+}
+
+.copyright{
+    padding-left: 598px;
+    padding-bottom: 10px;
+}
