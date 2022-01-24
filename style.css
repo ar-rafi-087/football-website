@@ -176,7 +176,37 @@ footer{
         grid-template-columns: 1fr;
         grid-gap: 30px;
         margin-top: 80px;
+        padding-left: 30px;
+        padding-bottom: 40px;
+    }
+
+    .extra-text{
+        padding-top: 20px;
         padding-left: 20px;
-        padding-bottom: 165px;
+        padding-right: 520px;
+        padding-bottom: 50px;
+    }
+
+    .video{
+        padding-left: 20px;
+        padding-right: 156px;
+        padding-bottom: 158px;
+        width: 350px;
+        height: 200px;
+    }
+
+    .logo img {
+        width: 300px;
+        height: 70px;
+        padding-bottom: 20px;
+    }
+
+    .social{
+        margin-left: 62PX;
+    }
+
+    .copyright{
+        padding-left: 50px;
+        padding-bottom: 10px;
     }
 }   
