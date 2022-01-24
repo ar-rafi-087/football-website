@@ -180,19 +180,29 @@ footer{
         padding-bottom: 40px;
     }
 
+    .extra{
+        display: flex;
+        background-color: white;
+        flex-direction: column;
+    }
+
     .extra-text{
         padding-top: 20px;
         padding-left: 20px;
-        padding-right: 520px;
+        padding-right: 120px;
         padding-bottom: 50px;
     }
 
     .video{
         padding-left: 20px;
         padding-right: 156px;
-        padding-bottom: 158px;
+        padding-bottom: 45px;
         width: 350px;
         height: 200px;
+    }
+
+    .logo {
+        margin-left: 20px;
     }
 
     .logo img {
