@@ -151,7 +151,9 @@ footer{
    -------------- */
 
 @media only screen and (max-width:688px){
-    
+    body{
+        width: 100%;
+    }
     .upper{
         display: flex;
         flex-direction: column;
