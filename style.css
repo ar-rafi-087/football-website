@@ -145,3 +145,29 @@ footer{
     padding-left: 598px;
     padding-bottom: 10px;
 }
+
+/* --------------
+   MEDIA QUARIRY 
+   -------------- */
+
+@media only screen and (max-width:688px){
+    
+    .upper{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .text{
+        font-size: 25px;
+        padding-left: 20px;
+        padding-top: 112px;
+        line-height: 70px;
+     }
+     .picture img{
+         width: 360px;
+         height: 280px;
+         padding-left: 15px;
+         padding-top: 60px;
+         padding-bottom: 62px;
+     }
+}   
